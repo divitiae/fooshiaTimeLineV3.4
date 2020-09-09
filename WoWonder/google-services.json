@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "564781379986",
+    "firebase_url": "https://fooshia.firebaseio.com",
+    "project_id": "fooshia",
+    "storage_bucket": "fooshia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564781379986:android:5686807d01d61b5938114b",
+        "android_client_info": {
+          "package_name": "com.divitiae.fooshiamessanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564781379986-bfe03is9v3aednk4ou4p1p7lb1oggvkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divitiae.fooshiamessanger",
+            "certificate_hash": "8ea17535a151debe0aea71b2083fa21b00032edc"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgNyCH03rS62phT_VonSKQIOVIzGTCJtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564781379986-ncqhkd1dir223msschmh7186g5pho0je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564781379986:android:99eea34ff8960aef38114b",
+        "android_client_info": {
+          "package_name": "com.divitiae.fooshiatimeline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgNyCH03rS62phT_VonSKQIOVIzGTCJtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564781379986-ncqhkd1dir223msschmh7186g5pho0je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564781379986:android:e12e0eaf5143381138114b",
+        "android_client_info": {
+          "package_name": "com.divitiae.foosshia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564781379986-0eer3lrc4ku11sb0j8sud6dj99d6dfvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divitiae.foosshia",
+            "certificate_hash": "8ea17535a151debe0aea71b2083fa21b00032edc"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgNyCH03rS62phT_VonSKQIOVIzGTCJtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564781379986-ncqhkd1dir223msschmh7186g5pho0je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

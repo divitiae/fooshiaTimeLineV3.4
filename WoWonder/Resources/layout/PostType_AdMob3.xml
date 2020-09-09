@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:padding="5dp"
+              android:clickable="true"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+	<com.google.android.gms.ads.doubleclick.PublisherAdView
+		android:id="@+id/multiple_ad_sizes_view"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:clickable="true"
+		app:adSize="MEDIUM_RECTANGLE,120x20,250x250,320x100,SMART_BANNER"
+		app:adUnitId="@string/banner_multiple_ad_sizes_id" />
+</LinearLayout>

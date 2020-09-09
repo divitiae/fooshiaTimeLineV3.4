@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <!--ADMOB APPLICATION_ID >> ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy-->
+  <string name="admob_app_id">ca-app-pub-9227865829432768~4296105177</string> 
+  <string name="banner_ad_unit_id">ca-app-pub-9227865829432768/8782145094</string>
+  <string name="banner_multiple_ad_sizes_id">ca-app-pub-9227865829432768/8782145094</string>
+  <string name="ad_attribution">Ad</string> 
+  <!--===============================================================-->
+
+  <!--facebook ID-->
+  <string name="facebook_app_id">266474881283544</string>
+  <string name="fb_login_protocol_scheme">fb266474881283544</string>
+  <string name="icon_desc">Ad icon</string>
+  <string name="image_desc">Ad image</string>
+  <string name="sponsored">Sponsored</string>
+  <!--===============================================================-->
+
+  <!--google ID-->
+  <string name="google_key">AIzaSyAgNyCH03rS62phT_VonSKQIOVIzGTCJtg</string>
+
+  <!--https://developers.google.com/maps/documentation/maps-static/intro--> 
+  <string name="google_maps_key">AIzaSyDda6-JfCzI0ZNzUWyOT5zaMhDIQRDwXVw</string>
+ 
+  <string name="razorpay_api_Key">rzp_test_ruzI7R7AkonOIi</string>
+
+  <string name="com.crashlytics.android.build_id">1</string>
+
+</resources>
