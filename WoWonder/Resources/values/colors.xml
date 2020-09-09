@@ -62,5 +62,8 @@
   <color name="gnt_outline">#E0E0E0</color>
 
   <color name="Splash_background_color">#212121</color>
+    <color name="background_First_Layout_startColor">#777777</color>
+  <color name="background_First_Layout_centerColor">#888888</color>
+  <color name="background_First_Layout_endColor">#444444</color>
  
 </resources>
