@@ -37,7 +37,7 @@
 	<uses-permission android:name="com.divitiae.fooshiatimeline.permission.C2D_MESSAGE" />
 	<!-- Allow the application to access Google web-based services. -->
 	<permission android:name="com.divitiae.fooshiatimeline.permission.MAPS_RECEIVE" android:protectionLevel="signature" />
-	<application android:name=".MainApplication" android:allowBackup="false" android:label="WoWonder Timeline" android:largeHeap="true" android:hardwareAccelerated="true" android:requestLegacyExternalStorage="true" android:supportsRtl="@bool/Is_arabic" android:icon="@mipmap/icon" android:roundIcon="@mipmap/icon_round" android:theme="@style/MyTheme" tools:replace="android:icon, android:label, android:theme, android:name, android:allowBackup, android:supportsRtl">
+	<application android:name=".MainApplication" android:allowBackup="false" android:label="Fooshia" android:largeHeap="true" android:hardwareAccelerated="true" android:requestLegacyExternalStorage="true" android:supportsRtl="@bool/Is_arabic" android:icon="@mipmap/icon" android:roundIcon="@mipmap/icon_round" android:theme="@style/MyTheme" tools:replace="android:icon, android:label, android:theme, android:name, android:allowBackup, android:supportsRtl">
 		<!--Google Maps /Places  API Key-->
 		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="@string/google_key" />
 		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
